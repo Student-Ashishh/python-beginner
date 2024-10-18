@@ -1,0 +1,8 @@
+def sum_doubled_values(one, two, three, four, five):
+  
+   a = one * 2
+   b = two * 2
+   c = three * 2
+   d = four * 2
+   e = five * 2
+   print(a + b + c + d + e)
